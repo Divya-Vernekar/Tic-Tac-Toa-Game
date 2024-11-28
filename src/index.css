@@ -1,0 +1,11 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+#root{
+  height: 100vh;
+  background-image:linear-gradient(rgba(255,255,255,0.1),rgba(255,255,255,0.1)), url('images/bg.jpeg');
+  opacity: 900;
+  backdrop-filter: blur(60px);
+  background-size: cover; 
+}
